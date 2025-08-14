@@ -30,27 +30,34 @@ Finally, it prints the final price after applying the discount or the original p
 ## Example1
 
 Enter the original price: 100
+
 Enter the discount percentage: 25
+
 Final price after discount: 75.0
 
 ## Example2
 
 Enter the original price: 100
+
 Enter the discount percentage: 10
+
 No discount applied. Original price: 100
 
 ## Usage
 
 1. Clone or download this repository
    To get a local copy of this project, run:
+
    git clone https://github.com/Deremas/july-2025-python-week-3-task.git
+
 2. Navigate into the project folder:
+
    cd july-2025-python-week-3-task
 3. Run the Python file:
 ```bash
 python discount_calculator.py
 
-## Author
-**Dereje Masresha**
-GitHub: [Deremas](https://github.com/Deremas)
 ```
+## Author
+Dereje Masresha  
+GitHub: [Deremas](https://github.com/Deremas)
